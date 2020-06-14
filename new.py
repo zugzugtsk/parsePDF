@@ -1,5 +1,5 @@
-import requests                    # Прием/отправка запросов по HTTP.
-import re as re                    # Регулярки
+import requests                    # Requesrs library
+import re as re                    # Regexp
 import io                          # input/output streams
 import pdfx                        # pdfx extracts urls from pdf documents
 from bs4 import BeautifulSoup #Beautifier
